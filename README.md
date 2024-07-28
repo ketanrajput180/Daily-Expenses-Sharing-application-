@@ -1,2 +1,2 @@
-# prouction-Expense-app-mern
-expense mern stack app
+# Daily-Expenses-Sharing-application 
+expenses mern stack app
